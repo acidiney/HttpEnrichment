@@ -14,8 +14,8 @@ A mobile operator know how set this information in request, but in my case, you 
 
 # Requires
 
--> PhoneCode: Is Phonenumber of user that wants to access the route
--> BaseUrl: Will redirect to this route if number is valid
+- PhoneCode: Is Phonenumber of user that wants to access the route
+- BaseUrl: Will redirect to this route if number is valid
 
 
 
